@@ -1,5 +1,5 @@
 <style>
-	h1, figure, p {
+	h1, p {
 		text-align: center;
 		margin: 0 auto;
 	}
@@ -26,7 +26,7 @@
 	<title>Sapper + Vercel project template</title>
 </svelte:head>
 
-<h1>We're online.</h1>
+<h1>42</h1>
 
 
 
