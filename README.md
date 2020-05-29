@@ -7,7 +7,7 @@ This was created as I could not find a sapper template that did not need interve
 ## Getting started
 
 
-[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository. Use either the `rollup` or `webpack` branch in `sapper-template`:
+[`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository:
 
 ```bash
 # rollup 
